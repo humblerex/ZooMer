@@ -1,6 +1,6 @@
 # ZooMer.js
 
-Zoomer.js helps you to zoom into your image.
+Zoomer.js helps you to zoom into your image. Zoomed image moves with mouse. Its interactive! Try this and Contribute.
 
 # Usage
 
