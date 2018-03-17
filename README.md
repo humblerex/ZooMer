@@ -7,7 +7,7 @@ Zoomer.js helps you to zoom into your image. Zoomed image moves with mouse. Its 
 * Download the Script
 * Add to your project
 * Create a <figure> element and pass the following attribute
-   * data-scale (scale to zoom)
+   * data-scale (scale to zoom,currently having problem with images having different scale) 
    * data-src (Image src)
    * add class "zoomer-item"
   
