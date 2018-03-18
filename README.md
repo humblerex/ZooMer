@@ -2,6 +2,10 @@
 
 Zoomer.js helps you to zoom into your image. Zoomed image moves with mouse. Its interactive! Try this and Contribute.
 
+# Demo
+
+http://demo.tutorialheap.com/JavascriptProjects/Zoomer/
+
 # Usage
 
 * Download the Script
